@@ -7,4 +7,4 @@ This repository contains a set of images for style transfer reference.
 
 You can change the value of style_weight, content_weight and learning_rate to get desired output.
 
-You can experiment with various combinations of the content and style images to create unique and interesting outputs. Enjoy exploring the possibilities!
+You can experiment with various combinations of the content and style image to create unique and interesting outputs. Enjoy exploring the possibilities!!
